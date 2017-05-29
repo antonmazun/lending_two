@@ -1,0 +1,331 @@
+﻿body {
+}
+
+@media only screen and (max-width: 1200px){
+   
+    .first_div{
+         margin-top:-2%;
+    }
+    .photo{
+        left:15%;
+    }
+    #right{
+    position:absolute;
+    left:290px;
+    top:150px;
+}
+   
+}
+@media only screen and (max-width: 1100px){
+
+    #button{
+        font-size:120%;
+        top:63%;
+           
+    }
+
+    .first_div{
+        margin-top:-4%;
+    }
+
+    .content_first , .content_second  {
+        margin-left:0;
+    }
+
+    #btn_start{
+        font-size:140%;
+        margin-left:0;
+        padding:1%;
+    }
+
+     .photo{
+         top:-15%;
+        left:20%;
+        height:100px;
+    }
+     .block_rewiews{
+         margin-top:8%;
+         margin-left:5%;
+        /* height:55%;*/
+        
+     }
+     .block_rewiews p{
+    padding-top:30%;
+    color:black;
+    text-align:center;
+    font-size:14px;
+}
+
+     #left{
+         display: none;
+     }
+      #right{
+         display: none;
+     }
+	.footer{
+font-size:18px;
+
+	}
+	#footer_btn{
+		font-size:120%;
+
+	}
+	.text_footer{
+		
+	}
+	.footer{
+		height:25%;
+	}
+
+
+}
+
+@media only screen and (max-width: 768px){
+
+    #button{
+        font-size:110%;
+        top:61%;
+    }
+
+    .first_div{
+        margin-top:-3%;
+    }
+    .slider{
+        height:80%;
+    }
+
+    .choose_service_margin{
+        position:relative;
+        top:-10%;
+    }
+
+    #individual{
+        font-size:24px;
+        text-align:center;
+    }
+
+    #btn_start{
+        padding:5%;
+        margin-left:0;
+    }
+    .photo{
+         left:25%;
+        height:120px;
+    }
+     .block_rewiews{
+         margin-top:10%;
+         margin-left:20%;
+     }
+}
+
+@media only screen and (max-width: 650px){
+
+    #button{
+        font-size:90%;
+        top:61%;
+    }
+
+    .first_div{
+        font-size:16px;
+    }
+
+    .slider{
+        height:70%;
+    }
+
+    .choose_service_margin{
+        position:relative;
+        top:-20%;
+    }
+
+    #individual{
+        font-size:18px;
+        text-align:center;
+    }
+    .photo{
+        left:20%;
+        height:120px;
+    }
+     .block_rewiews{
+         margin-top:15%;
+         margin-left:20%;
+         height:50%;
+     }
+}
+
+@media only screen and (max-width: 500px){
+
+    #button{
+        font-size:80%;
+        top:60%;
+    }
+
+    .first_div{
+        margin-top:-4%;
+        font-size:12px;
+    }
+
+    #individual{
+        font-size:22px;
+        text-align:center;
+    }
+      .photo{
+          
+        left:20%;
+        height:100px;
+    }
+}
+
+
+@media only screen and (max-width: 460px){
+
+    #button{
+        font-size:60%;
+        border: 2px solid black;
+    }
+    .first_div{
+    
+        
+    }
+    .slider{
+        height:60%;
+    }
+      .photo{
+        left:20%;
+        height:80px;
+        top:-10%;
+    }
+#footer_btn{
+		font-size:100%;
+	}
+      
+}
+
+@media only screen and (max-width:440px){
+
+    .first_div{
+        margin-top:-4%;
+    }
+
+    .description{
+        font-size:14px;
+    }
+
+    .choose_service_text{
+        font-size:22px;
+    }
+
+    .choose_service_margin{
+        position:relative;
+        top:-20%;
+    }
+
+    #start{
+        margin-left:0;
+    }
+     .photo{
+        left:20%;
+        height:70px;
+        top:-15%;
+    }
+         .block_rewiews p{
+    padding-top:30%;
+    color:black;
+    text-align:center;
+    font-size:10px;
+}
+         .block_rewiews{
+             height:32%;
+         }
+
+	.footer{
+font-size:24px;
+	}
+#footer_btn{
+		font-size:80%;
+	}
+
+}
+
+@media only screen and (max-width: 330px){
+
+    #button{
+        font-size:50%;
+        border:1px solid black;
+        top:58%;
+    }
+
+    .first_div{
+        margin-top:-5%;
+        font-size: 8px;
+    }
+
+    .slider{
+        height:50%;
+    }
+
+    .choose_service_text{
+         font-size:20px;
+    }
+
+    .choose_service_margin{
+        position:relative;
+        top:-20%;
+    }
+
+    #btn_start{
+        margin-left:0;
+        font-size:100%;
+    }
+        .block_rewiews p{
+    padding-top:30%;
+    color:black;
+    text-align:center;
+    font-size:8px;
+}
+        .photo{
+            top:-20%;
+        }
+	#footer_btn{
+		font-size:60%;
+	}
+}
+
+@media only screen and (max-width: 270px){
+    #button{
+        font-size:40%;
+        border:1px solid black;
+    }
+
+    .first_div{
+        margin-top:-4%;
+        font-size: 8px;
+    }
+    .slider{
+        height:40%;
+    }
+
+    .choose_service_text{
+         font-size:16px;
+    }
+    .choose_service_margin{
+        position:relative;
+        top:-10%;
+    }
+    
+    #btn_start{
+        font-size: 80%;
+    }
+    .photo{
+        left:20%;
+        height:50px;
+        top:-15%;
+    }
+
+
+	#footer_btn{
+		font-size:40%;
+	}
+}
+
+
